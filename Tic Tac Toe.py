@@ -130,7 +130,6 @@ while True:
             else:      #on wrong input
                 print("Invalid input!Try again")
                 continue
-            end_check = check()
     total_moves += 1
     print("**************************")
     print()
